@@ -1,3 +1,4 @@
+About me
 - 👋 Hi, I’m @Ginaa750
 - 👀 Passionate about front-end development
 - 🌱 Currently learning HTML, CSS, and JavaScript
